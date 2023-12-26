@@ -1,4 +1,5 @@
 # react-weather-app
+
 A simple weather app built with React.js and OpenWeatherMap API. It allows users to check the current weather for a specific city, view the current date, and access meteorological predictions.
 
 
@@ -6,7 +7,6 @@ A simple weather app built with React.js and OpenWeatherMap API. It allows users
 ## Table of Contents
 
 - [Features](#features)
-- [Prerequisites](#prerequisites)
 - [Getting Started](#getting-started)
 - [Project Structure](#project-structure)
 - [Technologies Used](#technologies-used)
@@ -14,6 +14,7 @@ A simple weather app built with React.js and OpenWeatherMap API. It allows users
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
+- [Author](#author)
 
 
 
@@ -22,15 +23,6 @@ A simple weather app built with React.js and OpenWeatherMap API. It allows users
 - **Weather Information:** Displays the current temperature and weather conditions for a given city.
 - **Calendar:** Shows the current date.
 - **Meteorological Predictions:** Provides meteorological predictions for the week (simulated).
-
-
-
-## Prerequisites
-
-Before you begin, ensure you have the following installed:
-
-- [Node.js](https://nodejs.org/) - JavaScript runtime
-- [npm](https://www.npmjs.com/) - Node.js package manager
 
 
 
@@ -129,3 +121,12 @@ Feel free to contribute to this project. Fork the repository, make changes, and 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+
+
+## Author
+
+👤 **Aras Güngöre**
+
+- LinkedIn: [@arasgungore](https://www.linkedin.com/in/arasgungore)
+- GitHub: [@arasgungore](https://github.com/arasgungore)
