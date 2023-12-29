@@ -2,14 +2,19 @@ import React from 'react';
 import styled from 'styled-components';
 
 const Card = styled.div`
-  // Add your styling here
+  border: 1px solid #ddd;
+  padding: 16px;
+  margin: 16px;
 `;
 
 const WeatherCard = ({ data }) => {
-  // Extract data and render weather information
+  const { name, main: { temp }, weather } = data;
+
   return (
     <Card>
-      {/* Display weather information */}
+      <h2>{name}</h2>
+      <p>Temperature: {temp} °C</p>
+      <p>Weather: {weather[0].description}</p>
     </Card>
   );
 };

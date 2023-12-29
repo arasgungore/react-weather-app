@@ -9,6 +9,7 @@ const getWeatherData = async (city) => {
       params: {
         q: city,
         appid: apiKey,
+        units: 'metric',
       },
     });
     return response.data;

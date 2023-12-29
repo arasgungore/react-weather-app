@@ -56,12 +56,11 @@ weather-app/
 |   |   |-- Calendar.js
 |   |   |-- MeteorologicalPredictions.js
 |   |-- services/
-|   |   |-- weatherService.js
+|   |   |-- WeatherService.js
 |   |-- App.js
 |   |-- index.js
 |-- .env
 |-- .gitignore
-|-- package.json
 |-- README.md
 ```
 
